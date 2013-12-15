@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BAVSN", "BAVSN.vcxproj", "{E04A9EB9-CD03-F5D5-738A-D46407364DEB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{44498772-B728-41F0-8123-264B49F27D2C}"
+	ProjectSection(SolutionItems) = preProject
+		Performance1.psess = Performance1.psess
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E04A9EB9-CD03-F5D5-738A-D46407364DEB}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E04A9EB9-CD03-F5D5-738A-D46407364DEB}.Debug|Win32.Build.0 = Debug|Win32
+		{E04A9EB9-CD03-F5D5-738A-D46407364DEB}.Release|Win32.ActiveCfg = Release|Win32
+		{E04A9EB9-CD03-F5D5-738A-D46407364DEB}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
